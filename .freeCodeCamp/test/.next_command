@@ -60,3 +60,5 @@ nano castle.sh
 bash castle.sh
 nano castle.sh
 bash castle.sh
+git init
+git add .
