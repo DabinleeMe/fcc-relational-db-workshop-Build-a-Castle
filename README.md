@@ -8,13 +8,3 @@ I learned how to navigate the terminal and use the **Nano text editor** to creat
 * File Manipulation (`touch`, `cp`, `mv`, `rm`)
 * Text Editing with **Nano** (`Ctrl+O`, `Ctrl+X`)
 * Basic Linux Permissions
-
- /\                /\ 
-/  \              /  \ 
-|  |______________|  |
-|                    |
-|   []    []    []   |
-|                    |
-|         __         |
-|________|  |________|
-
